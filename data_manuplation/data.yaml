@@ -1,0 +1,12 @@
+config:
+   ip: null
+   is_there: true
+   test:
+     - name
+     - class
+config_1:
+      ip: null
+      is_there: true
+      test:
+         - name
+         - class
